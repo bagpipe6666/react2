@@ -1,4 +1,4 @@
-import From from "./assets/From";
+import From from "./assets/Form";
 
 function App(){
     return (

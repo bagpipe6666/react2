@@ -1,7 +1,7 @@
 import { useState } from "react";
 import ShowName from "./ShowName";
 
-export default function From() {
+export default function Form() {
     const [name, setName] = useState("");
     const [displayName, setDisplayName]= useState(false);
 
